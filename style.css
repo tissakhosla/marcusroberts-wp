@@ -15,4 +15,10 @@ Tags: accessible classic-editor advanced-custom-fields
 (C) 2024 Marcus Roberts
 */
 
+.menu-header-nav-container ul {
+    display: flex;
+}
 
+.menu-header-nav-container ul>li {
+    width: 200px;
+}
